@@ -1,5 +1,9 @@
-## Best Multiplier Calculator Ever Btw
+## ITS NOT ONLY A MULTIPLIER CALCULATOR NOW
+it can do 4 symbols
+-
++
+*
+/
+these four.
 
-Probably The Most simple and skunky Code You'll ever see
-
-Im just trying to understand github bro this complicated as hell!!
+also its very bugged and has like 5 errors
